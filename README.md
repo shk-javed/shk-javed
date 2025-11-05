@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shaikh Javed</h1>
 <h3 align="center">Aspiring Data Scientist | Passionate about ML & AI | Open Source Enthusiast ❤️</h3>
 
+
 ---
 
 ### 👨‍💻 About Me
@@ -11,7 +12,7 @@
 - 💡 I love building projects that combine **AI + Real-world impact**  
 - 🤝 Looking to collaborate on **Data Science, ML & Open Source Projects**  
 - 🧠 Always open to learning new technologies & ideas  
-- 📫 Reach me at: **shaikhjaved.ds@gmail.com**
+- 📫 Reach me at: **shkjaved41@gmail.com**
 
 ---
 
@@ -49,6 +50,13 @@
 
 ---
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shk-javed&theme=onedark&no-frame=true&no-bg=true&margin-w=4">
+</p>
+
+---
+
 ### 🚀 Featured Projects
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
@@ -59,7 +67,7 @@
 
 ---
 
-### 🏆 Achievements & Highlights
+### 🏅 Achievements & Highlights
 - 🎯 **Holopin Badges** *(optional)* – [Add your badges here](https://holopin.io/)
 - 🧩 **Developer Program Member**
 - 💬 Active on **Kaggle** and **GitHub Open Source**
@@ -71,5 +79,9 @@
 > “Every dataset has a story — I just love decoding it 📊”
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shk-javed&label=Profile%20views&color=0e75b6&style=flat" alt="shk-javed" />
+</p>
 
 ⭐️ **From [Shaikh Javed](https://github.com/shk-javed)**
