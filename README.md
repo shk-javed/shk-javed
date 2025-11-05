@@ -1,6 +1,7 @@
 <!-- Hi, I'm Shaikh Javed 👋 -->
 <h1 align="center">Hi 👋, I'm Shaikh Javed</h1>
-<h3 align="center">Aspiring Data Scientist | Passionate about ML & AI | Open Source Enthusiast ❤️</h3>
+<h3 align="center">Every model tells a story — I just help it speak. 🌏</h3>
+
 
 
 ---
@@ -68,7 +69,6 @@
 ---
 
 ### 🏅 Achievements & Highlights
-- 🎯 **Holopin Badges** *(optional)* – [Add your badges here](https://holopin.io/)
 - 🧩 **Developer Program Member**
 - 💬 Active on **Kaggle** and **GitHub Open Source**
 - 🌟 Goal: To build AI tools that improve privacy & data-driven decision making
