@@ -1,87 +1,78 @@
-<!-- Hi, I'm Shaikh Javed 👋 -->
 <h1 align="center">Hi 👋, I'm Shaikh Javed</h1>
-<h3 align="center">Every model tells a story — I just help it speak. 🌏</h3>
-
-
+<h3 align="center">Turning data into insight, and insight into impact. 🌏</h3>
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 I'm currently pursuing **Data Science**  
-- 🤖 Interested in **Machine Learning, Artificial Intelligence & Automation**  
-- 🌱 Currently learning **Python, ML Algorithms, Django, Data Visualization, Deep Learning**  
-- 💡 I love building projects that combine **AI + Real-world impact**  
-- 🤝 Looking to collaborate on **Data Science, ML & Open Source Projects**  
-- 🧠 Always open to learning new technologies & ideas  
+### 👨‍🔬 What I Do
+- 🧠 Build and train ML models with a focus on **real-world problems**
+- 🧩 Extract insights from messy data using **EDA and visualization**
+- 🚀 Create AI tools that improve **privacy, automation, and decision-making**
+
+---
+
+### 👨‍💻 About Me (Quick Snapshot)
+- 🎓 Final-year **Data Science** student  
+- 🤖 Deep interest in **Machine Learning, AI & Automation**  
+- ⚙️ Currently sharpening: **Python, Django, Deep Learning, ML algorithms, and Data storytelling**
+- 🤝 Open to collaborations, contributions, and research-driven projects  
 - 📫 Reach me at: **shkjaved41@gmail.com**
 
 ---
 
-### 🌍 Connect with Me
+### 🌐 Find me on
 <p align="left">
-<a href="https://www.linkedin.com/in/shk-javed" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-</a>
-<a href="https://shk-javed.github.io/shk-javedportfolio" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=githubpages&logoColor=white" alt="portfolio"/>
-</a>
-<a href="https://www.kaggle.com/shkjaved" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle"/>
-</a>
+<a href="linkedin.com/in/shk-javed">LinkedIn</a> •
+<a href="shk-javed.github.io/shk-javedportfolio">Portfolio</a> •
+<a href="kaggle.com/shkjaved">Kaggle</a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,django,flask,html,css,js,react,bootstrap,mysql,sqlite,git,github,vscode,linux,anaconda" />
-</p>
+### 🛠️ Tech Arsenal
+**Languages:** Python, SQL, JavaScript  
+**Frameworks:** Django, Flask, React, Flask  
+**ML/DL:** Scikit-learn, TensorFlow, PyTorch, CNNs  
+**Tools:** Git, Linux, Jupyter, VS Code, Anaconda, MySQL, SQLite  
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub at a Glance
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shk-javed&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shk-javed&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shk-javed&layout=compact&theme=tokyonight" />
+  <img width="48%" src="github stats 1">
+  <img width="48%" src="github streak">
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shk-javed&theme=onedark&no-frame=true&no-bg=true&margin-w=4">
-</p>
+### 🏆 Trophies & Milestones
+- 🧩 Open-source contributor
+- 🏅 Developer Program Member
+- 📈 78+ contributions this year — and climbing 🚀
 
 ---
 
-### 🚀 Featured Projects
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| 🪪 **Aadhaar Masking Tool** | Privacy-preserving OCR app that detects and masks Aadhaar numbers automatically | Python, PaddleOCR, OpenCV, Django |
-| 💻 **Portfolio Website** | Personal portfolio website showcasing my skills and projects | HTML, CSS, JS |
-| 📊 **Data Science Projects** | Collection of ML and visualization projects | Python, Pandas, Matplotlib |
-| 🧠 **ML Algorithms Playground** | Experimenting with regression, classification, and clustering models | Python, Scikit-learn |
+### 🚀 Spotlight Projects
+| Project | Why It Matters | Built With | Outcome |
+|--------|--------------|-----------|---------|
+| 🪪 **Aadhaar Masking Tool** | Protects identity by masking sensitive digits | Python, PaddleOCR, OpenCV, Django | Accurate masking on blurry, rotated, and screenshot images |
+| 🌐 **Portfolio Website** | Showcases skills with clean UI and navigation | HTML, CSS, JS | One-pager visual profile of projects and abilities |
+| 📊 **Domain-wise DS Notebooks** | Solves analytical problems with storytelling | Python, Pandas, Matplotlib | Insight-rich EDA + trained models |
 
 ---
 
-### 🏅 Achievements & Highlights
-- 🧩 **Developer Program Member**
-- 💬 Active on **Kaggle** and **GitHub Open Source**
-- 🌟 Goal: To build AI tools that improve privacy & data-driven decision making
+### 🧬 Philosophy
+> “Every model tells a story — my job is to translate it into something useful.”
 
 ---
 
-### 💖 Fun Fact
-> “Every dataset has a story — I just love decoding it 📊”
+### 💡 Fun Superpower
+- Wrestling with datasets until they reveal the truth 🥋
+- Debugging code like a detective 🕵️‍♂️
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shk-javed&label=Profile%20views&color=0e75b6&style=flat" alt="shk-javed" />
+  <img src="profile views counter">
 </p>
 
-⭐️ **From [Shaikh Javed](https://github.com/shk-javed)**
+⭐️ **Built with curiosity, driven by impact.**
