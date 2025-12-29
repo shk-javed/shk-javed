@@ -3,7 +3,6 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Shaikh Javed</h1>
-<h3 align="center">Every model tells a story — I just help it speak. 🌏</h3>
 
 ---
 
