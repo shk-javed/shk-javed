@@ -11,7 +11,7 @@ I am an Aspiring Data Scientist and <b>B.Sc Data Science student</b> at the <b>U
 </p>
 
 ### 🌱 Currently Learning
-- Python • Django • Deep Learning • ML Algorithms • Data Storytelling
+- Python • Deep Learning • ML Algorithms • Data Storytelling
 
 ### 🌍 Connect with Me
 <p align="center">
@@ -57,7 +57,7 @@ I am an Aspiring Data Scientist and <b>B.Sc Data Science student</b> at the <b>U
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shk-javed&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img width="1012" height="149" src="https://streak-stats.demolab.com/?user=shk-javed&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ### 🚀 Featured Projects
