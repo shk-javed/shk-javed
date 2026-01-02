@@ -67,11 +67,6 @@ I am an Aspiring Data Scientist and <b>B.Sc Data Science student</b> at the <b>U
 | 📈 Finance | [**Financial Trading Dashboard**]() | Real-time market tracking & ML price forecasting (Python, Dash, Random Forest). |
 | 🌐 Web | [**Portfolio Website**](https://shk-javed.github.io/shkjavedportfolio/) | Personal one-page portfolio showcasing skills & DS/ML projects. |
 
-### 🏅 Achievements & Goals
-- 🔭 Open-source contributor  
-- 📈 78+ GitHub contributions this year  
-- 🎯 Goal: Build AI that improves **privacy + automation + decisions**
-
 ### 💖 Fun Fact
 > “Data Science is 80% cleaning data, 20% complaining about cleaning data... and I love both! 🧹📊”
 
