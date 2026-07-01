@@ -59,16 +59,14 @@ I am an Aspiring Data Scientist and <b>B.Sc Data Science student</b> at the <b>U
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shk-javed&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shk-javed&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=shk-javed&theme=tokyonight&hide_border=true" />
 
 </p>
 
+### 📈 Contribution Graph
+
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=shk-javed&theme=tokyonight&hide_border=true" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shk-javed&theme=tokyo-night&hide_border=true" />
 </p>
 
 ### 🚀 Featured Projects
