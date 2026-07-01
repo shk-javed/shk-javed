@@ -1,88 +1,102 @@
 <div align="center">
-  <img src="JD.png" width="100%" />
+  <img src="JD.png" width="100%" alt="Data Scientist Banner" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Shaikh Javed</h1>
 
----
-
-<p align="center">
-I am an Aspiring Data Scientist and <b>B.Sc Data Science student</b> at the <b>University of Mumbai</b>, passionate about turning data into actionable insights. I am building hands-on skills in <b>Python</b>, <b>SQL</b>, and <b>Machine Learning</b>, and exploring practical applications of <b>data analytics</b> in real-world projects.I have completed academic <b>projects</b> that helped me apply theoretical knowledge, develop <b>problem-solving abilities</b>, and gain experience with <b>data visualization</b> and predictive modeling.Excited to learn, develop, and work towards impactful data-driven projects, I am interested in interning, <b>working on project collaborations</b>, and networking with <b>Data Science professionals</b>.
-</p>
-
-### 🌱 Currently Learning
-- Python • Deep Learning • ML Algorithms • Data Storytelling
-
-### 🌍 Connect with Me
-<p align="center">
-<a href="https://www.linkedin.com/in/shk-javed" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-</a>
-<a href="https://shk-javed.github.io/shkjavedportfolio/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=githubpages&logoColor=white" alt="portfolio"/>
-</a>
-<a href="https://www.kaggle.com/shkjaved" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle"/>
-</a>
-<a href="mailto:shkjaved41@gmail.com" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
-</a>
-</p>
+<h3 align="center">Data Analyst | Business Intelligence | Dashboard Developer</h3>
 
 ---
 
-### 🛠️ Languages and Tools
-<p align="center">
-<a href="https://git-scm.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=git" />
+### 👨‍💻 About Me
+
+I am a **Data Analyst** with 6 months of full-time experience at **MAK { Byte }**, specializing in building automated KPI dashboards, streamlining MIS reporting, and driving business intelligence. Currently completing my **B.Sc. in Data Science** at the University of Mumbai (Class of 2026).
+
+- 💼 **Experience:** Data Analytics Intern at MAK { Byte } (Full-Time, 6 Months).
+- 🛠️ **Expertise:** SQL, Power BI, Python, ETL pipelines, and Data Visualization.
+- 🎯 **Current Focus:** Contributing to Open Source projects and mastering advanced DAX & Data Modeling.
+- 🤝 **Looking for:** Opportunities in Business Intelligence, Data Analytics, and collaborative Open Source projects.
+
+---
+
+### 💼 Professional Experience
+
+**Data Analytics Intern @ MAK { Byte }** 
+- Designed and automated interactive **KPI Dashboards** using Power BI and SQL.
+- Optimized **MIS reporting** processes, saving hours of manual data extraction.
+- Assisted in developing scalable business intelligence solutions for real-world client data.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages & Databases:**
+<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,postgres,mysql&perline=10" />
 </a>
-<a href="https://www.python.org" target="_blank">
-  <img src="https://skillicons.dev/icons?i=python" />
+
+**Data Analytics & Business Intelligence:**
+<br>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=pandas,sklearn&perline=10" />
 </a>
-<a href="https://pandas.pydata.org" target="_blank">
-  <img src="https://skillicons.dev/icons?i=pandas" />
+
+**Tools & Version Control:**
+<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=10" />
 </a>
-<a href="https://seaborn.pydata.org" target="_blank">
-  <img src="https://skillicons.dev/icons?i=seaborn" />
-</a>
-<a href="https://www.postgresql.org" target="_blank">
-  <img src="https://skillicons.dev/icons?i=postgresql" />
-</a>
-<a href="https://scikit-learn.org/stable/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=sklearn" />
-</a>
-</p>
+
+---
+
+### 🚀 Featured Projects
+
+| Domain | Project | One-Line Description |
+|---|---|---|
+| 📈 BI & Analytics | **[Financial Trading Dashboard]()** | Real-time market tracking & ML price forecasting (Python, Dash, Random Forest). |
+| 🪪 Computer Vision | **[Aadhaar Masking Tool](https://github.com/shk-javed/Aadhaar-Masking-Tool.git)** | Digit detection & 1st 8-digit auto masking using OCR + OpenCV for data privacy. |
+| 🌐 Web & Portfolio | **[Portfolio Website](https://shk-javed.github.io/shkjavedportfolio/)** | Personal portfolio showcasing Data Science & Business Intelligence projects. |
+
+*(Note: Add your other dashboards like Customer Service Operations & Hospital ER Dashboard here soon!)*
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=shk-javed&theme=tokyonight&hide_border=true" />
-
+  <img src="https://streak-stats.demolab.com?user=shk-javed&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shk-javed&theme=tokyo-night&hide_border=true" />
-</p>
-
-### 🚀 Featured Projects
-| Domain | Project | One-Line Description |
-|---|---|---|
-| 🪪 Privacy | [**Aadhaar Masking Tool**](https://github.com/shk-javed/Aadhaar-Masking-Tool.git) | Aadhaar digit detection & 1st 8-digit auto masking using OCR + OpenCV. |
-| 📈 Finance | [**Financial Trading Dashboard**]() | Real-time market tracking & ML price forecasting (Python, Dash, Random Forest). |
-| 🌐 Web | [**Portfolio Website**](https://shk-javed.github.io/shkjavedportfolio/) | Personal one-page portfolio showcasing skills & DS/ML projects. |
-
-### 💖 Fun Fact
-> “Data Science is 80% cleaning data, 20% complaining about cleaning data... and I love both! 🧹📊”
 
 ---
 
+### 🌍 Connect with Me
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shk-javed&label=Profile%20views&color=0e75b6&style=flat" alt="shk-javed" />
+<a href="https://www.linkedin.com/in/shk-javed" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+</a>
+<a href="https://shk-javed.github.io/shkjavedportfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=githubpages&logoColor=white" alt="portfolio"/>
+</a>
+<a href="https://www.kaggle.com/shkjaved" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle"/>
+</a>
+<a href="mailto:shkjaved41@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+</a>
 </p>
 
-<p align="center">⭐️ <b>From <a href="https://github.com/shk-javed">Shaikh Javed</a></b></p>
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shk-javed&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <em>“Data Science is 80% cleaning data, 20% complaining about cleaning data... and I love both! 🧹📊”</em><br>
+  ⭐️ <b>From <a href="https://github.com/shk-javed">Shaikh Javed</a></b>
+</p>
