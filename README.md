@@ -1,103 +1,15 @@
-<div align="center">
-  <img src="JD.png" width="100%" alt="Data Scientist Banner" />
-</div>
+Data Analyst / Business Intelligence Developer. [Portfolio](https://shk-javed.github.io/shkjavedportfolio/) · [LinkedIn](https://www.linkedin.com/in/shk-javed) · [Kaggle](https://www.kaggle.com/shkjaved) · [Email](mailto:shkjaved41@gmail.com)
 
-<h1 align="center">Hi 👋, I'm Shaikh Javed</h1>
+I build automated KPI dashboards, streamline MIS reporting, and develop data-driven business intelligence solutions.
 
-<h3 align="center">Data Analyst | Business Intelligence Developer</h3>
+• **Data Analytics Intern** at MAK { Byte } · driving business intelligence and ETL pipelines
+• **Project Presenter** at GDG DevFest Mumbai · showcased a technical data science project to a large audience
+• **Google Student Ambassador** · actively driving tech initiatives and community engagement
+• **Creator** of [Financial Trading Dashboard]() · real-time market tracking & ML price forecasting
+• **Creator** of [Aadhaar Masking Tool](https://github.com/shk-javed/Aadhaar-Masking-Tool.git) · OCR & OpenCV-based privacy utility
+• **Open Source Contributor** · improving repository codebases and documentation
+• **Certified** in IBM Data Science & Google Data Analytics
 
----
+Currently building **Hospital ER Dashboard**, exploring **Microsoft Fabric**, and mastering **Advanced DAX**.
 
-<p align="center">
-I am a <b>Data Analyst</b> with 6 months of full-time experience at <b>MAK { Byte }</b>, specializing in building automated <b>KPI dashboards</b>, streamlining MIS reporting, and driving business intelligence. Currently completing my <b>B.Sc. in Data Science</b> at the <b>University of Mumbai</b> (Class of 2026), I possess strong hands-on expertise in <b>SQL</b>, <b>Power BI</b>, and <b>Python</b>. My work focuses on translating complex datasets into actionable insights and developing scalable ETL pipelines. Highly passionate about <b>Open Source</b> contributions and advanced data modeling, I am always eager to collaborate on impactful analytics projects and network with industry professionals.
-</p>
-
-### 🌍 Connect with Me
-<p align="center">
-<a href="https://www.linkedin.com/in/shk-javed" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-</a>
-<a href="https://shk-javed.github.io/shkjavedportfolio/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=githubpages&logoColor=white" alt="portfolio"/>
-</a>
-<a href="https://www.kaggle.com/shkjaved" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle"/>
-</a>
-<a href="mailto:shkjaved41@gmail.com" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
-</a>
-</p>
-
----
-
-### 💼 Experience & Achievements
-
-- 🏢 **Data Analytics Intern @ MAK { Byte }:** Engineered automated KPI dashboards and optimized MIS reporting workflows using Power BI and SQL.
-- 🎤 **Project Presenter @ GDG DevFest Mumbai:** Showcased a technical data science project to a large community of tech professionals.
-- 🌟 **Google Student Ambassador:** Actively driving tech initiatives, participating in hackathons, and building community engagement.
-- 🤝 **Open Source Contributor:** Successfully raising and merging PRs; continuously improving repository codebases and documentation.
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="center">
-  <!-- Languages, Databases & ML -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,postgres,mysql,pandas,sklearn" alt="Languages and ML" />
-  </a>
-</p>
-
-<p align="center">
-  <!-- BI & Analytics Tools -->
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-</p>
-
-<p align="center">
-  <!-- Version Control & IDE -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" />
-  </a>
-</p>
-
----
-
-### 🚀 Featured Projects
-
-| Domain | Project | One-Line Description |
-|---|---|---|
-| 📈 Finance | **[Financial Trading Dashboard]()** | Real-time market tracking & ML price forecasting (Python, Dash, Random Forest). |
-| 🏥 Healthcare | **[Hospital ER Dashboard]()** | Interactive BI dashboard to monitor emergency room KPIs and patient flow. |
-| 🪪 Privacy | **[Aadhaar Masking Tool](https://github.com/shk-javed/Aadhaar-Masking-Tool.git)** | Aadhaar digit detection & 1st 8-digit auto masking using OCR + OpenCV. |
-| 🌐 Web | **[Portfolio Website](https://shk-javed.github.io/shkjavedportfolio/)** | Personal one-page portfolio showcasing skills & DS/ML projects. |
-
----
-
-### 📜 Certifications & 🎯 2026 Goals
-
-| 🏆 Top Certifications | 🌱 2026 Roadmap & Open Source Goals |
-|---|---|
-| 🤖 **IBM** Data Science Professional<br>📊 **Google** Data Analytics<br>📈 **Power BI** Certification<br>☁️ **Google Cloud** Certified | 🧠 Mastering **Advanced DAX** & Data Modeling<br>🎯 Hitting **300+ GitHub Contributions**<br>🤝 20+ Merged **Open Source PRs**<br>☁️ Learning **Microsoft Fabric** & Azure |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shk-javed&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-### 💖 Fun Fact
-> “Data Science is 80% cleaning data, 20% complaining about cleaning data... and I love both! 🧹📊”
-
-<br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shk-javed&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">⭐️ <b>From <a href="https://github.com/shk-javed">Shaikh Javed</a></b></p>
+**Tech Stack ⚙️** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
