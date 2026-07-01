@@ -40,21 +40,21 @@ Advanced DAX • Open Source Collaboration • Data Modeling • Business Intell
 <p align="center">
   <!-- Languages, Databases & ML -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,postgres,mysql,pandas,sklearn" />
+    <img src="https://skillicons.dev/icons?i=python,postgres,mysql,pandas,sklearn" alt="Languages and ML" />
   </a>
 </p>
 
 <p align="center">
   <!-- BI & Analytics Tools -->
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
 </p>
 
 <p align="center">
   <!-- Version Control & IDE -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" />
   </a>
 </p>
 
