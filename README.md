@@ -10,13 +10,7 @@
 
 ### 👨‍💻 About Me
 
-I am a **Data Analyst** with 6 months of full-time experience at **MAK { Byte }**, specializing in building automated KPI dashboards, streamlining MIS reporting, and driving business intelligence. Currently completing my **B.Sc. in Data Science** at the University of Mumbai (Class of 2026).
-
-- 💼 **Experience:** Data Analytics Intern at MAK { Byte } (Full-Time, 6 Months).
-- 🛠️ **Expertise:** SQL, Power BI, Python, ETL pipelines, and Data Visualization.
-- 🎯 **Current Focus:** Contributing to Open Source projects and mastering advanced DAX & Data Modeling.
-- 🤝 **Looking for:** Opportunities in Business Intelligence, Data Analytics, and collaborative Open Source projects.
-
+I am a <b>Data Analyst</b> full-time experience at <b>MAK { Byte }</b>, specializing in building automated <b>KPI dashboards</b>, streamlining MIS reporting, and driving business intelligence. Currently completing my <b>B.Sc. in Data Science</b> at the <b>University of Mumbai</b> (Class of 2026), I possess strong hands-on expertise in <b>SQL</b>, <b>Power BI</b>, and <b>Python</b>. My work focuses on translating complex datasets into actionable insights and developing scalable ETL pipelines. Highly passionate about <b>Open Source</b> contributions and advanced data modeling, I am always eager to collaborate on impactful analytics projects and network with industry professionals.
 ---
 
 ### 💼 Professional Experience
