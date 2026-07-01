@@ -12,11 +12,6 @@
 I am a <b>Data Analyst</b> with 6 months of full-time experience at <b>MAK { Byte }</b>, specializing in building automated <b>KPI dashboards</b>, streamlining MIS reporting, and driving business intelligence. Currently completing my <b>B.Sc. in Data Science</b> at the <b>University of Mumbai</b> (Class of 2026), I possess strong hands-on expertise in <b>SQL</b>, <b>Power BI</b>, and <b>Python</b>. My work focuses on translating complex datasets into actionable insights and developing scalable ETL pipelines. Highly passionate about <b>Open Source</b> contributions and advanced data modeling, I am always eager to collaborate on impactful analytics projects and network with industry professionals.
 </p>
 
-### 🌱 Currently Learning
-<p align="center">
-Advanced DAX • Open Source Collaboration • Data Modeling • Business Intelligence
-</p>
-
 ### 🌍 Connect with Me
 <p align="center">
 <a href="https://www.linkedin.com/in/shk-javed" target="_blank">
@@ -32,6 +27,15 @@ Advanced DAX • Open Source Collaboration • Data Modeling • Business Intell
   <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
 </a>
 </p>
+
+---
+
+### 💼 Experience & Achievements
+
+- 🏢 **Data Analytics Intern @ MAK { Byte }:** Engineered automated KPI dashboards and optimized MIS reporting workflows using Power BI and SQL.
+- 🎤 **Project Presenter @ GDG DevFest Mumbai:** Showcased a technical data science project to a large community of tech professionals.
+- 🌟 **Google Student Ambassador:** Actively driving tech initiatives, participating in hackathons, and building community engagement.
+- 🤝 **Open Source Contributor:** Successfully raising and merging PRs; continuously improving repository codebases and documentation.
 
 ---
 
@@ -65,8 +69,17 @@ Advanced DAX • Open Source Collaboration • Data Modeling • Business Intell
 | Domain | Project | One-Line Description |
 |---|---|---|
 | 📈 Finance | **[Financial Trading Dashboard]()** | Real-time market tracking & ML price forecasting (Python, Dash, Random Forest). |
+| 🏥 Healthcare | **[Hospital ER Dashboard]()** | Interactive BI dashboard to monitor emergency room KPIs and patient flow. |
 | 🪪 Privacy | **[Aadhaar Masking Tool](https://github.com/shk-javed/Aadhaar-Masking-Tool.git)** | Aadhaar digit detection & 1st 8-digit auto masking using OCR + OpenCV. |
 | 🌐 Web | **[Portfolio Website](https://shk-javed.github.io/shkjavedportfolio/)** | Personal one-page portfolio showcasing skills & DS/ML projects. |
+
+---
+
+### 📜 Certifications & 🎯 2026 Goals
+
+| 🏆 Top Certifications | 🌱 2026 Roadmap & Open Source Goals |
+|---|---|
+| 🤖 **IBM** Data Science Professional<br>📊 **Google** Data Analytics<br>📈 **Power BI** Certification<br>☁️ **Google Cloud** Certified | 🧠 Mastering **Advanced DAX** & Data Modeling<br>🎯 Hitting **300+ GitHub Contributions**<br>🤝 20+ Merged **Open Source PRs**<br>☁️ Learning **Microsoft Fabric** & Azure |
 
 ---
 
