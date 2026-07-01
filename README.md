@@ -41,9 +41,15 @@ Advanced DAX • Open Source Collaboration • Data Modeling • Business Intell
   <img src="https://skillicons.dev/icons?i=python,postgres,mysql" />
 </a>
 <br><br>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+
+<!-- Standalone logos to match the height of Skillicons -->
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" height="48" alt="Power BI" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="48" alt="Excel" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/tableau/E97627" height="48" alt="Tableau" />
+&nbsp;&nbsp;&nbsp;
+
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=pandas,sklearn" />
 </a>
